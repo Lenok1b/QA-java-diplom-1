@@ -1,0 +1,11 @@
+# Default ignored files
+#/shelf/
+#/.idea/workspace.xml
+#/vcs.xml
+#/misc.xml
+#/jarRepositories.xml
+#/compiler.xml
+#/.gitignore
+.idea
+.gitignore
+target
